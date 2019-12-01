@@ -1,9 +1,9 @@
-#include<stdio.h>
+#include<iostream>
+using namespace std;
 
 int main()
 {
-  printf("Hello world!\n");
-  printf("This is the first test for using github!\n");
-  printf("Added for testing conflict!\n");
+  cout << "Hello world!\n" << endl;
+  cout << "This is the first test for using github!" << endl;
   return 1;
 }
